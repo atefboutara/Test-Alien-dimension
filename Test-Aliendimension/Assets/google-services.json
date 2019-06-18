@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468855618175",
+    "firebase_url": "https://testunity-496ff.firebaseio.com",
+    "project_id": "testunity-496ff",
+    "storage_bucket": "testunity-496ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468855618175:android:365d12f5aa11eb22",
+        "android_client_info": {
+          "package_name": "com.Aliendimension.Pepsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468855618175-je8q9vj635du3sas2jemhv3o6r92rdmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSM5C8kb-c879AhYiTdG-F-VEMNIWMYVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468855618175-je8q9vj635du3sas2jemhv3o6r92rdmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

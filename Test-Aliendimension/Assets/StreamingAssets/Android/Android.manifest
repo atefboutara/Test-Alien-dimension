@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 372092535
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pepsilogo
+      Dependencies: {}
+    Info_1:
+      Name: scenes_s4
+      Dependencies: {}
+    Info_2:
+      Name: scenes_s3
+      Dependencies: {}
+    Info_3:
+      Name: scenes
+      Dependencies:
+        Dependency_0: images.hd
+    Info_4:
+      Name: scenes_s1
+      Dependencies: {}
+    Info_5:
+      Name: scenes_s2
+      Dependencies: {}
+    Info_6:
+      Name: images.hd
+      Dependencies: {}
+    Info_7:
+      Name: images.sd
+      Dependencies: {}

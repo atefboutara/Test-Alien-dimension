@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2144792662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28747050267eea5d959be7b2eb8b0182
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d50de59952756678922174c8f7240c6f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleMagic/Scenes/s3.unity
+Dependencies: []
