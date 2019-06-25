@@ -15,7 +15,7 @@ public class FirebaseStocked3D : MonoBehaviour
     FirebaseStorage storage;
     StorageReference storage_ref;
     AssetBundle bundle;
-
+    public string modelurl = "https://firebasestorage.googleapis.com/v0/b/testunity-496ff.appspot.com/o/Models%2Fpepsilogo.unity3d?alt=media&token=547f9885-352a-4852-8b81-77c50593e135";
     public RuntimeAnimatorController AnimationController;
 
     #region small fix
@@ -53,7 +53,7 @@ public class FirebaseStocked3D : MonoBehaviour
 
     IEnumerator LoadLogo()
     {
-        using (UnityWebRequest uwr = UnityWebRequestAssetBundle.GetAssetBundle("https://firebasestorage.googleapis.com/v0/b/testunity-496ff.appspot.com/o/Models%2Fpepsilogo.unity3d?alt=media&token=547f9885-352a-4852-8b81-77c50593e135"))
+        using (UnityWebRequest uwr = UnityWebRequestAssetBundle.GetAssetBundle(modelurl))
         {
             yield return uwr.SendWebRequest();
 
